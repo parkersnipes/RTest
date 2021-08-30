@@ -766,11 +766,8 @@
     }
   },
   "files": {
-    "server.R": {
+    "app.R": {
       "checksum": "70d0ee5f42c6d712dc860de3df3be01f"
-    },
-    "shinyapps/fditraglia/binom_cdf.dcf": {
-      "checksum": "cd1bf8db412b727056db5d24388dccde"
     },
     "ui.R": {
       "checksum": "6092e3dcb4577392ec27d54fdf67777d"
